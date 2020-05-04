@@ -1,1 +1,1 @@
-<?php header('Location: /flicktionary.html');?>
+<?php header('Location: /flicktionary.ejs');?>
